@@ -44,7 +44,7 @@ except URLError as e:
 
 
 
-streamlit.stop()
+#streamlit.stop()
 
 
 #fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
